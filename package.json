@@ -1,0 +1,27 @@
+{
+  "name": "test-editorconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olsonpm/test-editorconfig.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olsonpm/test-editorconfig/issues"
+  },
+  "homepage": "https://github.com/olsonpm/test-editorconfig#readme",
+  "dependencies": {
+    "editorconfig": "^0.15.0",
+    "prettier": "^1.10.2"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}
